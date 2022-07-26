@@ -1,0 +1,123 @@
+{
+  "friendshipFollowingRows": [
+    {
+      "id": 1,
+      "date": "2022-06-11",
+      "action": true,
+      "firstName": {
+        "name": "Ethereumi ETH1",
+        "linkName": "@ethereum",
+        "linkUrl": "https://www.president.gov.ua/",
+        "img": "https://image.pngaaa.com/591/795591-middle.png"
+      },
+      "description": "Co-founder @0xPolygon, Founder @cryptorelief_ (https://t.co/xCjX1NWAMA) Dedicated to mass adoption of blockchains!",
+      "followers": {
+        "count": "1,795.6367",
+        "rise": "1.1%"
+      },
+      "score": 451
+    },
+    {
+      "id": 2,
+      "date": "2022-06-11",
+      "action": true,
+      "firstName": {
+        "name": "Ethereumi ETH1",
+        "linkName": "@ethereum",
+        "linkUrl": "https://www.president.gov.ua/",
+        "img": "https://image.pngaaa.com/591/795591-middle.png"
+      },
+      "description": "Co-founder @0xPolygon, Founder @cryptorelief_ (https://t.co/xCjX1NWAMA) Dedicated to mass adoption of blockchains!",
+      "followers": {
+        "count": "1,795.6367",
+        "rise": "1.1%"
+      },
+      "score": 1000
+    },
+    {
+      "id": 3,
+      "date": "2022-06-11",
+      "action": false,
+      "firstName": {
+        "name": "Ethereumi ETH1",
+        "linkName": "@ethereum",
+        "linkUrl": "https://www.president.gov.ua/",
+        "img": "https://image.pngaaa.com/591/795591-middle.png"
+      },
+      "description": "Co-founder @0xPolygon, Founder @cryptorelief_ (https://t.co/xCjX1NWAMA) Dedicated to mass adoption of blockchains!",
+      "followers": {
+        "count": "1,795.6367",
+        "rise": "-1.1%"
+      },
+      "score": 30
+    },
+    {
+      "id": 4,
+      "date": "2022-06-11",
+      "action": true,
+      "firstName": {
+        "name": "Ethereumi ETH1",
+        "linkName": "@ethereum",
+        "linkUrl": "https://www.president.gov.ua/",
+        "img": "https://image.pngaaa.com/591/795591-middle.png"
+      },
+      "description": "Co-founder @0xPolygon, Founder @cryptorelief_ (https://t.co/xCjX1NWAMA) Dedicated to mass adoption of blockchains!",
+      "followers": {
+        "count": "1,795.6367",
+        "rise": "1.1%"
+      },
+      "score": 100
+    },
+    {
+      "id": 5,
+      "date": "2022-06-11",
+      "action": true,
+      "firstName": {
+        "name": "Ethereumi ETH1",
+        "linkName": "@ethereum",
+        "linkUrl": "https://www.president.gov.ua/",
+        "img": "https://image.pngaaa.com/591/795591-middle.png"
+      },
+      "description": "Co-founder @0xPolygon, Founder @cryptorelief_ (https://t.co/xCjX1NWAMA) Dedicated to mass adoption of blockchains!",
+      "followers": {
+        "count": "1,795.6367",
+        "rise": "1.1%"
+      },
+      "score": 451
+    },
+    {
+      "id": 6,
+      "date": "2022-06-11",
+      "action": true,
+      "firstName": {
+        "name": "Ethereumi ETH1",
+        "linkName": "@ethereum",
+        "linkUrl": "https://www.president.gov.ua/",
+        "img": "https://image.pngaaa.com/591/795591-middle.png"
+      },
+      "description": "Co-founder @0xPolygon, Founder @cryptorelief_ (https://t.co/xCjX1NWAMA) Dedicated to mass adoption of blockchains!",
+      "followers": {
+        "count": "1,795.6367",
+        "rise": "1.1%"
+      },
+      "score": 451
+    },
+    {
+      "id": 7,
+      "date": "2022-06-11",
+      "action": true,
+      "firstName": {
+        "name": "Ethereumi ETH1",
+        "linkName": "@ethereum",
+        "linkUrl": "https://www.president.gov.ua/",
+        "img": "https://image.pngaaa.com/591/795591-middle.png"
+      },
+      "description": "Co-founder @0xPolygon, Founder @cryptorelief_ (https://t.co/xCjX1NWAMA) Dedicated to mass adoption of blockchains!",
+      "followers": {
+        "count": "1,795.6367",
+        "rise": "1.1%"
+      },
+      "score": 451
+    }
+  ]
+}

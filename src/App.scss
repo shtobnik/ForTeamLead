@@ -1,0 +1,16 @@
+html,
+body,
+#root {
+  min-height: 100%;
+  height: 100%;
+}
+
+div,
+span,
+input {
+  outline: none !important;
+}
+
+.MuiSkeleton-root {
+  transform: none !important;
+}

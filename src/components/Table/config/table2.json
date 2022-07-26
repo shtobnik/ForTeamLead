@@ -1,0 +1,39 @@
+{
+  "infoRows": [
+    {
+      "id": 1,
+      "image": "https://image.pngaaa.com/591/795591-middle.png",
+      "coin_name": {
+        "name": "Polygon",
+        "subName": "MATIC"
+      },
+      "links": [
+        {
+          "linkImage": "https://image1.thematicnews.com/uploads/topics/preview/00/05/65/84/657ff45b30_256crop.jpg",
+          "linkUrl": "https://www.codegrepper.com/code-examples/javascript/how+to+remove+negative+sign+in+javascrip"
+        },
+        {
+          "linkImage": "https://image3.thematicnews.com/uploads/topics/preview/00/01/90/28/98f478e09b_256crop.jpg",
+          "linkUrl": "https://www.codegrepper.com/code-examples/javascript/how+to+remove+negative+sign+in+javascrip"
+        },
+        {
+          "linkImage": "https://image2.thematicnews.com/uploads/topics/preview/00/02/70/98/d28af5e1a8_256crop.jpg",
+          "linkUrl": "https://www.codegrepper.com/code-examples/javascript/how+to+remove+negative+sign+in+javascrip"
+        },
+        {
+          "linkImage": "https://image3.thematicnews.com/uploads/topics/preview/00/13/40/46/81df451503_256crop.jpg",
+          "linkUrl": "https://www.codegrepper.com/code-examples/javascript/how+to+remove+negative+sign+in+javascrip"
+        }
+      ],
+      "price": {
+        "count": "1,795.6367",
+        "rise": "-1.1%"
+      },
+      "cap": "217B",
+      "fd_cap": "217B",
+      "cap_score": "218M",
+      "ico_price": "218M",
+      "return": "475%"
+    }
+  ]
+}
