@@ -1,4 +1,4 @@
-# For run
+# For start
 
 ### `npm i`
 
